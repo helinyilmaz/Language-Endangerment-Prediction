@@ -1,1 +1,3 @@
-# datasci207-final-project
+# DATASCI 207 Final Project
+
+Jordan Andersen, Courtney Chen, Brian Woods, Helin Yilmaz
